@@ -1,0 +1,57 @@
+<svg version="1.1" id="snow_icon"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-433 237.9 91.6 87.1"
+     style="enable-background:new -433 237.9 91.6 87.1;" xml:space="preserve">
+
+    <style type="text/css">
+        .sw0{fill:#C5C5C4;}
+        .sw1{fill:#E4E4E4;}
+        .sw2{fill:#FFFFFF;}
+    </style>
+
+
+    <!-- Big Pyramid -->
+    <polyline id="XMLID_40_" class="sw0" points="-433,292.1 -397.2,237.9 -361.7,291.9"/>
+
+    <!-- Small Pyramid -->
+    <polyline id="XMLID_39_" class="sw1" points="-381.7,292 -361.4,261.4 -341.4,291.8"/>
+
+    <!-- First line Snow -->
+    <g>
+        <rect x="-404.3" y="298.5" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -899.1678 228.8038)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-419.2" y="298.5" transform="matrix(-0.7224 -0.6914 0.6914 -0.7224 -926.2841 229.4098)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-389.4" y="298.5" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -873.7304 239.3379)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-374.5" y="298.5" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -848.2932 249.8721)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-359.6" y="298.5" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -822.8558 260.4062)" class="sw2" width="4.2" height="4.2"/>
+    </g>
+
+    <!-- Second line Snow -->
+    <g>
+        <rect x="-395.9" y="309.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -892.3691 253.0009)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-410.8" y="309.2" transform="matrix(-0.7224 -0.6914 0.6914 -0.7224 -919.1893 253.6379)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-381" y="309.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -866.9317 263.5352)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-366.1" y="309.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -841.4944 274.0692)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-351.2" y="309.2" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -816.0571 284.6035)" class="sw2" width="4.2" height="4.2"/>
+    </g>
+
+    <!-- Third line Snow -->
+    <g>
+        <rect x="-404.3" y="319.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -914.2831 265.3527)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-419.2" y="319.9" transform="matrix(-0.7224 -0.6914 0.6914 -0.7224 -941.0628 266.2849)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-389.4" y="319.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -888.8459 275.8869)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-374.5" y="319.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -863.4086 286.421)" class="sw2" width="4.2" height="4.2"/>
+
+        <rect x="-359.6" y="319.9" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -837.9714 296.9552)" class="sw2" width="4.2" height="4.2"/>
+    </g>
+
+</svg>

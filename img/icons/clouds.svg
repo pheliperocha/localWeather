@@ -1,0 +1,22 @@
+<svg version="1.1" id="clouds_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 92.6 60.4" style="enable-background:new 0 0 92.6 60.4;" xml:space="preserve">
+    <style type="text/css">
+        .cl0{fill:#F7DFAD;}
+        .cl1{fill:#F3BD3D;}
+        .cl2{fill:#C5C5C4;}
+        .cl3{fill:#E4E4E4;}
+    </style>
+
+    <!-- Sun square on back -->
+    <rect x="55.4" y="11.3" class="cl0" width="29.6" height="29.6"/>
+
+    <!-- Sun square on front -->
+    <rect x="55.4" y="11.3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 39.0331 -41.9718)" class="cl1" width="29.6" height="29.6"/>
+
+    <!-- Big pyramid -->
+    <polyline id="XMLID_40_" class="cl2" points="0,60.4 39.9,0 79.4,60.1"/>
+
+    <!-- Small pyramid -->
+    <polyline id="XMLID_39_" class="cl3" points="47.7,60.2 70.3,26.1 92.6,60.1"/>
+
+</svg>
