@@ -22,8 +22,6 @@ var Header = function (info) {
     this.weekShort = window.shortWeekDays[this.fullDate.getDay()];
     this.dayDate = this.fullDate.getDate();
 
-    info.weather[0].main = "Thunderstom";
-
     switch (info.weather[0].main) {
         case "Rain":
             this.weatherIcon = window.rain;
